@@ -67,27 +67,27 @@ section {
   font-weight: 700; }
 
 .btn-primary {
-  color: white;
+  color: #1A2930;
   border-color: #F7CE3E;
   background-color: #F7CE3E; }
   .btn-primary.focus, .btn-primary:focus {
-    color: white;
+    color: #1A2930;
     border-color: #b48b01;
     background-color: #C55337; }
   .btn-primary:hover {
-    color: white;
+    color: #1A2930;
     border-color: #F7CE3E;
     background-color: #E1BC39; }
   .btn-primary.active, .btn-primary:active,
   .open > .btn-primary.dropdown-toggle {
-    color: white;
+    color: #1A2930;
     border-color: #f6bf01;
     background-color: #fec503; }
     .btn-primary.active.focus, .btn-primary.active:focus, .btn-primary.active:hover, .btn-primary:active.focus, .btn-primary:active:focus, .btn-primary:active:hover,
     .open > .btn-primary.dropdown-toggle.focus,
     .open > .btn-primary.dropdown-toggle:focus,
     .open > .btn-primary.dropdown-toggle:hover {
-      color: white;
+      color: #1A2930;
       border-color: #b48b01;
       background-color: #dcab01; }
   .btn-primary.active, .btn-primary:active,
@@ -179,8 +179,8 @@ header.masthead {
   color: white;
   background: 
     linear-gradient(
-      rgba(247, 206, 62, 0.3),
-      rgba(247, 206, 62, 0.3)
+      rgba(35, 61, 77, 0.8),
+      rgba(35, 61, 77, 0.8)
     ),
     url("../img/landing/lake.jpeg");
   background-repeat: no-repeat;
@@ -573,4 +573,4 @@ ul.social-buttons {
     outline: none;
     background-color: #212529; }
     ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
-      background-color: #fed136; }
+      background-color: #F7CE3E; }
