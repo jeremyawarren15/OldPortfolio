@@ -224,7 +224,24 @@ header.masthead {
       margin-bottom: 50px;
       font-family: 'Rubik', sans-serif; } }
 
-.service-heading {
+section#skillset {
+  background-color: #0A1612; }
+  section#skillset .section-heading {
+    color: #F7CE3E; }
+  section#skillset .section-subheading {
+    color: #C5C1C0; }
+  section#skillset .under-button-text {
+    color: #1A2930; }
+  section#skillset .fa-stack {
+    color: #F7CE3E; }
+    section#skillset .fa-stack .fa-inverse {
+      color: #0A1612; }
+  section#skillset .skillset-heading {
+    color: #F7CE3E; }
+  section#skillset p {
+    color: #C5C1C0; }
+
+.skillset-heading {
   margin: 15px 0;
   text-transform: none; }
 
