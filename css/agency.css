@@ -274,6 +274,21 @@ section#skillset {
         margin-top: -12px;
         text-align: center;
         color: white; }
+        #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content a {
+          color: #1A2930;
+          -webkit-transition: all 0.5s ease-out;
+          -moz-transition: all 0.5s ease-out;
+          -o-transition: all 0.5s ease-out;
+          -ms-transition: all 0.5s ease-out;
+          transition: all 0.5s ease-out;
+        }
+        #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content a:hover {
+          color: white;
+          -webkit-transition: all 0.5s ease-out;
+          -moz-transition: all 0.5s ease-out;
+          -o-transition: all 0.5s ease-out;
+          -ms-transition: all 0.5s ease-out;
+          transition: all 0.5s ease-out; }
         #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content i {
           margin-top: -12px; }
         #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h3,
